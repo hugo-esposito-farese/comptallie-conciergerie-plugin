@@ -1,0 +1,9 @@
+{
+  "name": "comptallie-conciergerie",
+  "description": "Suite Conciergerie / location courte durée : squelette public, un seul skill d'accueil pour l'instant, aucun agent conciergerie encore validé. Emballage pur : connecte le serveur MCP distant déjà en ligne (adapters/mcp_remote/server.py sur Railway, partagé avec la suite immobilier) et charge les skills via le mécanisme Plugins de Claude.ai.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Hugo Esposito Farese",
+    "email": "hugo.esposito.farese.pro@gmail.com"
+  }
+}
