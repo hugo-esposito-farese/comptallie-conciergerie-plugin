@@ -9,7 +9,7 @@
     {
       "name": "comptallie-conciergerie",
       "source": "./adapters/claude_plugin",
-      "description": "Message d'accueil honnête de la suite Conciergerie — aucun agent conciergerie n'est encore construit, cf. CLAUDE.md section 1"
+      "description": "Configuration (/configuration) et Ménage (/menage) — emballage (skills + connexion au serveur MCP distant existant) sans logique propre, cf. Comptallie_MCP/CLAUDE.md section 5"
     }
   ]
 }
